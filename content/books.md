@@ -19,3 +19,7 @@ _Non-fiction_
 [] White Girls - Hilton Als
 
 [] The Charisma Myth - Olivia Fox Cabane
+
+_Javascript_
+
+[] You Don't Know Javascript - Kyle Simpson [https://github.com/getify/You-Dont-Know-JS]
